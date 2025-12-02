@@ -14,11 +14,4 @@ Here is a task list
 - [ ] Figure out if anyone out there is going to migrate Share code from Dimensions
 - [ ] Go home
       
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
 
-``` javascript
-var myVar = "Hello, world!";
-```
