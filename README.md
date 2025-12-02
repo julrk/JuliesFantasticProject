@@ -16,6 +16,6 @@ Here is a task list
 
 - [x] Get familiar with gitHub
 - [x] Figure out if anyone out there is going to migrate Share code from Dimensions
-- [ ] Go home
+- [ ] Have fun
       
 
